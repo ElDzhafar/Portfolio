@@ -16,9 +16,12 @@ Telegram: [@ElDzhafar](https://t.me/@ElDzhafar)
 Резюме на  HH: https://hh.ru/applicant/resumes/view?resume=9ff397beff0c7063340039ed1f4a794c334650
 
 **Языки и инструменты:**
+
 Языки - русский и английский (В1)
+
 Инструменты - Postman, Swagger, pgAdmin, Qase.io, Sitechko, Jira, Confluence/Notion, Miro
 
 **Навыки и технологии**
+
 Jira,qase.io,SQL, Postman,Fiddler, Swagger, Trello,
 SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
