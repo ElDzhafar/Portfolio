@@ -24,5 +24,5 @@ Telegram: [@ElDzhafar](https://t.me/@ElDzhafar)
 
 **Навыки и технологии**
 
-Jira,qase.io,SQL, Postman,Fiddler, Swagger, Trello,
-SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
+Jira, Qase.io, SQL, Postman, Swagger, Trello,
+SoapUI, Charles, Git, Chrome DevTools.
