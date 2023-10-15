@@ -26,3 +26,5 @@ SoapUI, Charles, Git, Chrome DevTools.
 Telegram: [@ElDzhafar](https://t.me/@ElDzhafar)
 
 Резюме на  HH: https://hh.ru/applicant/resumes/view?resume=9ff397beff0c7063340039ed1f4a794c334650
+
+Резюме на  Notion: https://plain-leotard-b09.notion.site/QA-f6a3f702ab50408cb9648adb95bd6e00
